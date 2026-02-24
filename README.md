@@ -40,7 +40,8 @@ This allows imperative control of animations while maintaining reactive state (`
 
 ## Screenshots
 
-C:\Users\HP\lisa\Animatedlistwidget\animatedlist\assets
+<img width="238" height="431" alt="animatedlist widget" src="https://github.com/user-attachments/assets/7ff7cbf2-106a-4e6b-ad7a-82cbc02ea6e8" />
+
 
 
 
