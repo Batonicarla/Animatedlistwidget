@@ -45,7 +45,7 @@ This allows imperative control of animations while maintaining reactive state (`
 
 
 
-Note: This project is built with Flutter and uses Material Design 3 for a modern, responsive UI.
+
 
 
 
